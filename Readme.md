@@ -3,8 +3,8 @@
 [![Build status][travis-image]][travis-url]
 [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Сергей Попов](https://htmlacademy.ru/profile/id42761).
-* Наставник: `Неизвестно`.
+* Студент: unknown.
+* Наставник: unknown.
 
 ### Немного о себе
 
